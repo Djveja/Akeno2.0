@@ -20,7 +20,7 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello dude {}, my name is [Vexana](https://telegra.ph/file/bff3e601c362e11221773.jpg)!
+Hello dude {😈}, my name is [Sukuna](https://telegra.ph/file/a6a275072e2908eedb720.jpg)!
 I'm a Telegram next generation advance Group Management Bot .
 
 I can Help you in Smart managing your chats with built in A.I.
@@ -34,8 +34,8 @@ Hit /help to find out more about how to use me on full potential.
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-Akeno An Group Management Bot with advanced features. 
+Hey there! My name is *{Sukuna}*.
+Sukuna An Group Management Bot with advanced features. 
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
